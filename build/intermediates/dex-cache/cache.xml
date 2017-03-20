@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Stephen Uy\.android\build-cache\c0c68d2e4707e9697a0c1b546d4bf6c4709b278c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\classes_1e0bbb195b33af02d143c6bf9ac5a0bb64c5a996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Stephen Uy\.android\build-cache\a907754b7ea840fc90267fd9687638a07d645650\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\classes_799a3c14711d08f6ee5aa39ba3758928dcd05b90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Stephen Uy\.android\build-cache\60376d7d073aca1004c0aabe2884a0684c9daa1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\classes_fdc9137c9d2e1e2501fa9558ef3d01aee2e441a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Stephen Uy\.android\build-cache\7f0f0dcef5760c13a6e55fcb51da19749021f724\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\classes_5d1a72b0258def262f3051960a4e7a4f662378d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Stephen Uy\.android\build-cache\110a88578cd432bb123ada4f0e522018f7816c36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\classes_5e930b8149f7d4202c544c41b0bb838bac531b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Stephen Uy\.android\build-cache\3e9ab9c907278835d327285063ffdae0a7ea4526\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\classes_844999df1ec444258d562d48272aca5ac319cb29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Stephen Uy\.android\build-cache\2046d4c289a2e604dbef81e1597a0ea6d75a31ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\classes_52e69006fb5251fb230366e78bb3513ea92c3c11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Stephen Uy\.android\build-cache\f650ec8c437f1b0eef9547acc45336da852ed1fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\classes_b5801186ab97cf86ff6d4884b241c820a2b0c205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Stephen Uy\.android\build-cache\e2a452b13e529134d3ed0be589c8bd85805c882d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\classes_dc81f3699f73b9ee5bcd4f4735d84c2e3bc3bcde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta1\constraint-layout-solver-1.0.0-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac4965ed6786f8d63f1960a996a6be667064cd28">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta1_d6115288927089b51190a32eaf42d83e6b225290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Stephen Uy\.android\build-cache\7b25270d97e3543c21cba6d2c88d4a30699af83d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\classes_1ae98a052297dda2d11191ffded282475afd4da9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Stephen Uy\.android\build-cache\16776cd130eb476906c184f9720375e0de29b386\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ad8321cff5fa475cb39daf387b3cb581aab17f">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\classes_34f17054a7160b18995e3e4734fba75bc16acae9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_9e24f7f490ed7547b7a2f62d633493984da9695f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Stephen Uy\.android\build-cache\a6f5ef13be57139a374121efd6c8915fd9094d53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\classes_d456199ffd30e9f1a5828a7aba572656fb5d8cf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Stephen Uy\.android\build-cache\812ccdac7be1c1b1b16ba369afd56d5ffb822b86\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Stephen Uy\Documents\GitHub\UPointsCustomer\app\build\intermediates\pre-dexed\debug\classes_4eed0d6bf78b507bf19bd84bc76ee4a9d749feb2.jar" />
+    </item>
+
+</items>

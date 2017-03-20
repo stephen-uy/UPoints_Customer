@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_upoints"
+            android:title="UPoints History" />
+        <item
+            android:id="@+id/nav_load"
+            android:title="Load" />
+        <item
+            android:id="@+id/nav_money_transfer"
+            android:title="Money Transfer" />
+        <item
+            android:id="@+id/nav_bills_payment"
+            android:title="Bills Payment" />
+        <item
+            android:id="@+id/nav_uask"
+            android:title="Uask" />
+    </group>
+
+</menu>

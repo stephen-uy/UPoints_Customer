@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">UPoints-Customer</string>
+
+    <string name="login_title">UPoints - Customer</string>
+    <string name="login_footer">Powered By Technogosyo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_profile">Profile</string>
+    <string name="title_upoints_history">UPoints History</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_save">Save</string>
+    <string name="action_add">Add</string>
+    <string name="action_search">Search</string>
+    <string name="action_update">Update</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_login">Incorrect username/password. Please try again.</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">Contacts permissions are needed for providing email completions.</string>
+    <string name="permission_rationale_camera">Camera permissions are needed for customer registration.</string>
+
+    <!-- button text -->
+    <string name="btn_ok">OK</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_no">No</string>
+    <string name="btn_add_customer">Add Customer</string>
+
+    <!-- error messages -->
+    <string name="error_first_name">First Name is required. \n</string>
+    <string name="error_middle_name">Middle Name is required. \n</string>
+    <string name="error_last_name">Last Name is required. \n</string>
+    <string name="error_birth_date">Birth Date is required. \n</string>
+    <string name="error_user_name">Username is required. \n</string>
+    <string name="error_password">Password is required. \n</string>
+    <string name="error_email">Email Address is required. \n</string>
+    <string name="error_user_level">User Role is required. \n</string>
+    <string name="error_picture">Picture is required. \n</string>
+    <string name="error_date_delivered">Please select date delivered.</string>
+    <string name="error_input_quantity">Please input how many.</string>
+    <string name="failed_to_add">Failed to add new customer. Please try again.</string>
+    <string name="failed_to_update">Failed to update list. Please try again.</string>
+    <string name="failed_to_update_store">Failed to update store details. Please try again.</string>
+    <string name="failed_to_add_stock">Failed to add new stock. Please try again.</string>
+    <string name="no_connection">Unable to connect to server. Please check internet connection.</string>
+    <string name="error_select_date">Please select date range.</string>
+    <string name="error_date_from">Date from must be less than or equal to date today.</string>
+    <string name="error_date_from_greater_to">Date from cannot be greater than date to.</string>
+    <string name="error_date_to">Date to must be less than or equal to date today.</string>
+    <string name="error_date_to_less_from">Date to cannot be less than date from.</string>
+    <string name="error_delete_logged_user">Cannot delete logged in user.</string>
+    <string name="error_delete_owner_user">Cannot delete owner\'s user.</string>
+    <string name="error_category">Please select category.</string>
+    <string name="error_add_stock">Failed to add new stock.</string>
+    <string name="error_add_product_pic">Failed to add picture.</string>
+    <string name="error_referral_code">Please provide referral code.</string>
+    <string name="error_referral_invalid">Invalid referral code.\n\nUse your referral code to continue registration? </string>
+
+    <!-- Successful messages -->
+    <string name="success_add_customer">Successfully added new customer.</string>
+    <string name="success_add_user">Successfully added new user.</string>
+    <string name="success_update_user">Successfully updated user.</string>
+    <string name="success_update_list">Successfully updated list.</string>
+    <string name="success_update_store">Successfully updated store details.</string>
+    <string name="success_add_stock">Successfully added new stock.</string>
+    <string name="success_add_product_pic">Successfully added picture.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="customer_name">Name: </string>
+    <string name="customer_birthdate">Birthdate: </string>
+    <string name="customer_email">Email Address: </string>
+    <string name="customer_mobile">Mobile Number: </string>
+    <string name="customer_totalPoints">Total UPoints: </string>
+    <string name="customer_remainingPoints">Remaining UPoints: </string>
+    <string name="customer_totalWDPoints">Total Withdraw UPoints: </string>
+    <string name="loading">Loading...</string>
+
+
+    <!-- UPoints History text -->
+    <string name="upoints_reference">Reference</string>
+    <string name="upoints_amount">Amt</string>
+    <string name="upoints_points_type">Points Type</string>
+    <string name="upoints_upoints">UPoints</string>
+    <string name="upoints_date">Date</string>
+    <string name="upoints_old_upoints">Old UPoints</string>
+    <string name="upoints_new_points">New UPoints</string>
+    <string name="upoints_deposit_date">Deposit Date </string>
+    <string name="upoints_from">From: </string>
+    <string name="upoints_to">To: </string>
+</resources>
